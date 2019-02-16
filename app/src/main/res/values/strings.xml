@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">biba</string>
+    <string name="hint_enter_text_to_create_barcode">Hit enter</string>
+</resources>
